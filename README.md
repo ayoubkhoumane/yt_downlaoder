@@ -9,7 +9,7 @@ It consists of three features:
 2.Download a video from youtube with the choice of quality
 3.Downloading a youtube playlist
 
-## Futur features 
+## Future features 
 Choice of the quality of the playlist 
 Convert the application from .py to .exe 
 Notify in case of error
